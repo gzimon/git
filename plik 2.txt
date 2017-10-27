@@ -1,2 +1,6 @@
+wersja 2
 wersja 1
-a
+wersja 3
+abc
+x
+s
